@@ -114,9 +114,9 @@ I like creating clean websites, backend systems, and learning new technologies i
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sakib92s&theme=dark&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=buildwithsakib&theme=dark&hide_border=true" alt="Streak" />
 
-<br/>
+</div>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=sakib92s&show_icons=true&theme=tokyonight&hide_border=true"/>
 

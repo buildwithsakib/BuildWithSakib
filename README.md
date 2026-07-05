@@ -28,7 +28,7 @@ I like creating clean websites, backend systems, and learning new technologies i
 
 <p align="left">
 
-<a href="https://github.com/sakib92s">
+<a href="https://github.com/buildwithsakib">
 <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
 </a>
 
